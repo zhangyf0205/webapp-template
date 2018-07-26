@@ -1,0 +1,7 @@
+com\xx\xx\filters\LoggingFilter.class
+com\xx\xx\utils\ConfUtils.class
+com\xx\xx\config\JacksonConfigurator.class
+com\xx\xx\config\RestApplication.class
+com\xx\xx\utils\LogInitializer.class
+com\xx\xx\web\SMPAuthResource.class
+com\xx\xx\HttpServerLauncher.class
